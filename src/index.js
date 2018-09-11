@@ -1,4 +1,6 @@
 // Code goes here
+import React from 'react';
+import ReactDOM from 'react-dom';
 class MovieCard extends React.Component {
   render() {
     return (
